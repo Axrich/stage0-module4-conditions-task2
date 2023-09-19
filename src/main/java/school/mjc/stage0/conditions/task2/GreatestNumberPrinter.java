@@ -14,7 +14,7 @@
         public static void main(String[] args) {
             GreatestNumberPrinter printer = new GreatestNumberPrinter();
             
-            int num1 = 10;
+            int num1 = 12;
             int num2 = 20;
             printer.printGreatest(num1, num2);
         }
